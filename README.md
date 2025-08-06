@@ -3,7 +3,8 @@ Part A
 
 
 <img width="1082" height="212" alt="Screenshot 2025-08-06 at 3 46 13 PM" src="https://github.com/user-attachments/assets/5fe6d26e-c719-458b-88f5-add1e7c3469b" />
-<img width="1082" height="212" alt="Screenshot 2025-08-06 at 3 46 13 PM" src="https://github.com/user-attachments/assets/f97ec00c-1ecf-483b-b483-c1b31e1ea54e" />
+
+<img width="1096" height="189" alt="Screenshot 2025-08-06 at 3 46 02 PM" src="https://github.com/user-attachments/assets/f088ceec-925a-4dfc-b4ff-358167241e96" />
 
 
 
