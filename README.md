@@ -17,6 +17,10 @@ Part B
 
 
 Part C
+
+
+
+
 <img width="271" height="309" alt="Screenshot 2025-08-06 at 3 44 34 PM" src="https://github.com/user-attachments/assets/bd2a6045-01ab-4195-924f-02f25f7bf467" />
 
 
